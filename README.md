@@ -1,5 +1,5 @@
 # ProgettoDB
-Progetto di Basi di Dati\\
+Progetto di Basi di Dati
 TRACCIA: progettazione e sviluppo di una base di dati relazionale per una applicazione di e-learning.
 
 Componenti:
